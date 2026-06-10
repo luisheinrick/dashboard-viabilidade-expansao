@@ -17,7 +17,12 @@ Projeto de Business Intelligence desenvolvido para análise da viabilidade de ex
 ## Ferramentas utilizadas
 
 - Google Sheets
-- Power BI (em desenvolvimento)
+
+## Próximos passos
+
+- Migração do dashboard para Power BI
+- Melhorias visuais
+- Aprimoramento da documentação do projeto
 
 ## Objetivo
 
